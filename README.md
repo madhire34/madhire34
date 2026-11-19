@@ -18,7 +18,7 @@ I care about the parts of a project that survive review: auth that holds, seed d
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **WorkProof** | A work journal that records what you shipped and the skills it taught you — entries, skill map, streaks, badges, private proof files. | Next.js · TypeScript · Prisma · PostgreSQL · Supabase | [Live](https://work-proof-tracker.vercel.app) · [Code](https://github.com/madhire34/work-proof-tracker) |
+| **WorkProof** | A work journal that records what you shipped and the skills it taught you — entries, skill map, streaks, badges, private proof files. | Next.js · TypeScript · Prisma · PostgreSQL · Supabase | [Live demo](https://work-proof-tracker.vercel.app/demo) · [Code](https://github.com/madhire34/work-proof-tracker) |
 | **ShopAdmin** | E-commerce control room: KPI cards, SVG revenue curve, category donut, conversion funnel, order table. Seed-data fallback keeps the demo alive. | React · Vite · Express · MongoDB · JWT | [Live](https://admindashboard-cedcos-task.vercel.app) · [Code](https://github.com/madhire34/admindashboard-cedcos-task) |
 | **ResumeRAG** | Upload PDF résumés, search candidates in plain English, match them to roles with RAG and GPT-4 embeddings. | React · TypeScript · Express · MongoDB · OpenAI | [Live](https://resume-rag-hackathon.vercel.app) · [Code](https://github.com/madhire34/ResumeRag-hackathon) |
 | **MHRD Dashboard** | Drill-down analytics over a synthetic India-wide education dataset — KPIs, trends, map insights, CSV export. | Django · DRF · Python | [Live](https://mhrd-dashboard.onrender.com) · [Code](https://github.com/madhire34/mhrd-dashboard) |

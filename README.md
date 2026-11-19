@@ -24,7 +24,7 @@ I care about the parts of a project that survive review: auth that holds, seed d
 | **MHRD Dashboard** | Drill-down analytics over a synthetic India-wide education dataset — KPIs, trends, map insights, CSV export. | Django · DRF · Python | [Live](https://mhrd-dashboard.onrender.com) · [Code](https://github.com/madhire34/mhrd-dashboard) |
 | **CipherStudio** | In-browser React IDE with a file tree, Sandpack live preview, JWT accounts, and saved projects. | Next.js · Sandpack · Express · MongoDB | [Live](https://cipherschools-react.vercel.app) · [Code](https://github.com/madhire34/cipher_studio) |
 | **NeighborFit** | Rate safety, walkability, nightlife and budget; a transparent weighted model ranks the neighborhoods that fit. | React · Express · MongoDB | [Live](https://neighborfit-self.vercel.app) · [Code](https://github.com/madhire34/neighborfit) |
-| **CampusOrbit** | Two university landing pages with Django JSON endpoints and a Pipedream lead-capture webhook. Repo name: CampusConnect. | Django · Pipedream | [Live](https://campusconnect-pcbw.onrender.com/) · [Code](https://github.com/madhire34/CampusConnect) |
+| **CampusConnect** | Two university landing pages with Django JSON endpoints and a Pipedream lead-capture webhook. | Django · Pipedream | [Live](https://campusconnect-pcbw.onrender.com/) · [Code](https://github.com/madhire34/CampusConnect) |
 
 > Some demos run on free tiers. If one takes ~30 seconds to load, it's waking up — the app itself is live.
 
